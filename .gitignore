@@ -6,6 +6,9 @@ node_modules
 /public
 *.un~
 /.firebase
+.firebaserc
+.npmrc
+.github
 .env
 .env.*
 !.env.example
