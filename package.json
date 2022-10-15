@@ -22,6 +22,7 @@
 	"type": "module",
 	"dependencies": {
 		"@emotion/css": "^11.10.0",
+		"@sveltejs/adapter-static": "^1.0.0-next.44",
 		"pixi.js": "^6.5.6"
 	}
 }
