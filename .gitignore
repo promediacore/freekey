@@ -3,10 +3,7 @@ node_modules
 /build
 /.svelte-kit
 /package
-/public
 *.un~
-/.firebase
-.firebaserc
 .npmrc
 .github
 .env
